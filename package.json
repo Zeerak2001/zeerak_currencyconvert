@@ -1,0 +1,24 @@
+{
+  "name": "zeerak_currencyconvert",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "bin": {
+    "zeerak_currencyconvert": "./bin/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.1.4",
+    "lodash": "^4.17.21",
+    "zeerak_currencyconvert": "^1.0.0"
+  },
+  "description": "",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
+}
